@@ -8,4 +8,5 @@ alias statg='git status'
 alias pullg='git pull'
 alias checkoutg='git checkout'
 alias sc=screen
+alias ctags='ctags --langmap=c++:+.cu'
 
