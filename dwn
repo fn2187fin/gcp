@@ -1,2 +1,4 @@
 #!/bin/bash
+sudo sync
+sudo umount /mnt/work
 sudo shutdown -h now
