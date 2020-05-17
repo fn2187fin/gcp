@@ -1,0 +1,4 @@
+fdclone screen
+make gcc g++
+eog feh
+python-pip python3-pip
